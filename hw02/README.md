@@ -8,13 +8,23 @@
 # hw02 任务二：DeepSeek 聊天机器人
 
 ## 1. 安装依赖
-pip install -r requirements.txt
+- 使用window环境
+- pip install -r requirements.txt
 
 ## 2. 配置 API Key
 在代码中填写你的 DeepSeek API Key
 
 ## 3. 运行代码
 python chatbot_deepseek.py
+- 以1+1=？为实验
+- 机器人回复DeepSeek：That’s a classic!  
+
+**1 + 1 = 2**  
+
+If you’re asking in a different context (like binary, logic, or a playful riddle), it could have other answers, but in basic arithmetic, the answer is **2**.
 
 ## 4. 功能说明
 实现与 DeepSeek 大模型的对话交互
+
+## 5.注意事项
+跑API接口需要调试费用
