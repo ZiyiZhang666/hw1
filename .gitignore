@@ -1,0 +1,26 @@
+# Vosk 模型（大文件，不上传）
+hw04/vosk-model-small-cn-0.22/
+
+# PyCharm 缓存
+.idea/
+*.iml
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+.venv/
+env/
+
+# 临时文件
+*.tmp
+*.log
+*.zip
+temp_*.wav
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
